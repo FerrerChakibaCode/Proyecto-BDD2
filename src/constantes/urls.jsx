@@ -1,0 +1,5 @@
+export const HOME_URL = "/"
+export const REGISTER_URL = "/register"
+export const LOGIN_URL = "/login"
+export const MOVIES_URL = "/home"
+export const SEARCH_URL = "/search"
